@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-Here are a few things about me:
 
 - 🔭 I’m a PhD student and a member of the Cosmology group at the University of Ioannina.
 - 👯 I am also part of the Snowmass - Cosmology Intertwined collaboration.
