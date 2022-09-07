@@ -3,10 +3,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a PhD student and a member of the Cosmology group at the University of Ioannina, Greece.
-- 🧑‍🤝‍🧑 I am also part of the Snowmass - Cosmology Intertwined collaboration.
+- 🔭 I'm a PostDoc at the Instituto de Física Teórica (IFT), Madrid.
+- 🧑‍🤝‍🧑 I'm also part of the Snowmass - Cosmology Intertwined collaboration.
 - 💬 Ask me about the codes in my repositories and/or Cosmology in general. 
-- 📫 Contact: alestasg@gmail.com, g.alestas@uoi.gr
+- 📫 Contact: alestasg@gmail.com
 
 Follow my research:
 
