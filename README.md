@@ -4,7 +4,7 @@
 
 
 - 🔭 I'm a PostDoc at the Instituto de Física Teórica (IFT), Madrid.
-- 🧑‍🤝‍🧑 I'm also part of the LIGO-Virgo and LISA collaborations.
+- 🧑‍🤝‍🧑 I'm also part of the LIGO, Virgo, LISA and Euclid collaborations.
 - 💬 Ask me about the codes in my repositories and/or Cosmology in general. 
 - 📫 Contact: alestasg@gmail.com, g.alestas@csic.es
 
